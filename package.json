@@ -1,0 +1,16 @@
+{
+  "name": "svg-logo-maker_kern",
+  "version": "1.0.0",
+  "description": "A command line application that will receive user input and generate a simple logo in a .svg file that meets the requests of the user.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^29.5.0"
+  }
+}
