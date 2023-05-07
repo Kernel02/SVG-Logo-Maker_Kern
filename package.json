@@ -4,7 +4,7 @@
   "description": "A command line application that will receive user input and generate a simple logo in a .svg file that meets the requests of the user.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
