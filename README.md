@@ -19,7 +19,7 @@
   ## Usage
    Enter 'node index.js' into the command line and answer the given prompts. Once that is done, your personal logo will be genrated into the generated-logos folder.
 
-   Watch the following video to watch an example logo get made using this application: [https://watch.screencastify.com/v/Vtabhf3Q6RVutIvDtzb8]
+   Watch the following video to watch an example logo get made using this application: https://watch.screencastify.com/v/Vtabhf3Q6RVutIvDtzb8
     
   ## License
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
